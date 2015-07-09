@@ -1,0 +1,17 @@
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\bin\Debug\NCAsAHP.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\bin\Debug\NCAsAHP.pdb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.DrugList.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.Drugs.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.Form1.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.Patients.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.PatienttoWaitingList.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.Prescription.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.Properties.Resources.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.ReferralAcknowledgement.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.ReferralAppointmentRequest.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.SpecialistAppointment.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.Specialists.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.UpdatingDrugList.resources
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.csproj.GenerateResource.Cache
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\NCAsAHP\NCAsAHP\obj\x86\Debug\NCAsAHP.pdb

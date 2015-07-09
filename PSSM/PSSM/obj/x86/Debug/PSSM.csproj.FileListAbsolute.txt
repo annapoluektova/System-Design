@@ -1,0 +1,12 @@
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\bin\Debug\PSSM.exe
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\bin\Debug\PSSM.pdb
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.ClientContractDetails.resources
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.Clients.resources
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.Contracts.resources
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.Form1.resources
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.Properties.Resources.resources
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.StaffingRequestDetails.resources
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.StaffingRequests.resources
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.csproj.GenerateResource.Cache
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.exe
+F:\4 semestr\COMP 2120 - Systems Design - Abid Rana\PSSM\PSSM\obj\x86\Debug\PSSM.pdb
